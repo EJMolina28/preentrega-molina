@@ -1,0 +1,63 @@
+
+
+
+/* link de tipografias*/
+*{
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300&family=Poppins:ital,wght@0,100;0,200;1,100;1,200&display=swap" rel="stylesheet"> font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+/* estilos generales*/
+.titulo-principal
+{color:rgba(255, 98, 0, 0.831);
+font-size: 2.5rem;}
+
+.img-logo{
+    width:5rem;
+    height:5rem;}
+
+a{
+    text-decoration: none;
+}    
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+/* estilos del header*/  
+  ul{
+        display:flex;
+        justify-content:space-evenly;
+        flex-wrap:wrap;
+      }
+
+.menu-navegable{
+    padding: 0.5rem;
+}      
+      
+   
+
+
+.titulo-secundario {color: rgb(255, 191, 0);
+    font-size: 2rem;}
+
+    .sub-titulo {color: rgb(255, 191, 0);
+        font-size: 1.5rem;
+}
+
+.parrafo-fuente{ color: rgb(0, 0, 0);
+    font-size: 1rem;}
+
+    .img {
+        
+        margin: 0.5rem;
+        width: 12rem;
+        height: 12rem;
+    }
+
+/* estilos del main*/ 
+
+.elemento-padre {display: flex;}
