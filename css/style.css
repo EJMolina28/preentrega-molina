@@ -69,13 +69,6 @@ ul{
     flex-direction: column;
 }
 
-.elemento-padre-main {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-
-}
-
 .imagen-contacto{
     width: 5rem;
     height: 5rem;
